@@ -1,0 +1,25 @@
+.list .col-3:nth-child(1) div {
+  background-color: #212121 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  height: 100%;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 23px;
+  font-weight: 800;
+  line-height: 30px;
+}
+.list .col-6 {
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: #161616;
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 25px;
+}
+.full-width {
+  width: 100%;
+}

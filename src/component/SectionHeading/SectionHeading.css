@@ -1,0 +1,11 @@
+.section-heading h2 {
+  text-transform: capitalize;
+  color: white;
+}
+.section-heading h3 {
+  color: var(--orange);
+  text-transform: capitalize;
+}
+.section-heading svg path {
+  fill: var(--orange);
+}

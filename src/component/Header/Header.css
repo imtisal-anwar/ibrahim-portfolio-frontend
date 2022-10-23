@@ -1,0 +1,14 @@
+header .navbar-nav .nav-link {
+  color: var(--white) !important;
+  font-weight: 800;
+  font-size: 17px;
+  line-height: 20px;
+}
+
+header {
+  background-color: var(--black);
+  border-bottom: 2px solid #171717;
+}
+header svg {
+  fill: white;
+}

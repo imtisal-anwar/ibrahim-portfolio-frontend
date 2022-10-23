@@ -1,0 +1,12 @@
+.white-btn {
+  background-color: white;
+  border: 2px solid white;
+  border-radius: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800 !important;
+  font-size: 20px !important;
+  line-height: 26px !important;
+  color: var(--black);
+  text-transform: capitalize;
+  padding: 15px 55px;
+}

@@ -1,0 +1,12 @@
+.border-btn {
+  background-color: transparent;
+  border: 2px solid var(--orange);
+  border-radius: 0;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 800 !important;
+  font-size: 20px !important;
+  line-height: 26px !important;
+  color: white;
+  padding: 15px 55px;
+  text-transform: capitalize;
+}

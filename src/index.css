@@ -1,7 +1,43 @@
+:root {
+  --orange: #e9204e;
+  --white: #ffffff;
+  --black: #010101;
+}
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 body {
   margin: 0;
   padding: 0;
-
+  font-family: "Montserrat", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 101px !important;
+  font-weight: 900 !important;
+  line-height: 90px !important;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 45px !important;
+  font-weight: 800 !important;
+  line-height: 54px !important;
+}
+h3 {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  line-height: 25px !important;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 26px;
+}
+a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  font-weight: 800;
+  line-height: 20px;
 }
